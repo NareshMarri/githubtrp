@@ -4,11 +4,7 @@ added thirdline in pulltest
 added fourthline in pulltest
 added fifthline in pulltesit
 added sixthline in pulltest
-<<<<<<< HEAD
 added ninth line in pulltest
 added tenth line in pulltest
-
-=======
 added sixth line in pulltest
 added seventh line in pulltest
->>>>>>> a5aba4641b1a380967f1dbcd687b010188207719
